@@ -1,4 +1,3 @@
-
 abner
 =====
 
@@ -42,7 +41,7 @@ Reference Information:
 * _[Apache Jena][jena]_
 * _[Protege][protege]_
 * _[Web Protege][web-protege]_
-* _[OWL 2 Web Ontology Language Primer]_
+* _[OWL 2 Web Ontology Language Primer][owl2-primer]_
 * _[SPAR Ontolgoies][spar]_ (tenative)
 
 #### Milestone M3 (Tentative) - "Dian" 
